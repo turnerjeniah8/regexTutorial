@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Explained (Tutorial)
 
 Regular Expression, regex, is a sequence of characters that are puzzle-like and they define a specific pattern. They do not require any code like javascript, react, etc. A downside to regex is that they look really confusing. Most people would see them and immediately look away and refuse to try to decode them. Each character has a value and when you put them together you can match any pattern. They are useful for searching things within a pattern but not literal characters. For example searching phone numbers by hand will be difficult if you have to deal with 50+ numbers. They will all have their own unique literal sequence. However regex comes in hand because it allows you to search things based off of their pattern. A phone number will be different and unique but they all have the same pattern, which is 10 numbers. However with regex you can use /d/d/d-/d/d/d-/d/d/d/d to get all numbers or list of literal characters that matches this.
 
